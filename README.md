@@ -49,7 +49,7 @@ Built with ADHD, dyslexia and autism in mind. 🧠<br />
         <td width="33%"><img alt="Screenshot of Leantime's todo screen in table format. Tasks are grouped by status where each Status has a different color" src="Public/assest/Images/screenshot/IMG_20260125_234343.jpg" title="Grouped To-Dos" /></td>
     </tr>
     <tr>
-        <td><img alt="alt text" src="public/assets/images/Screenshots/kanban.png" title="Kanban Board"/></td>
+        <td><img alt="alt text" src="Public/assest/Images/screenshot/IMG_20260124_111440.jpg" title="Kanban Board"/></td>
         <td><img alt="Screenshot of Leantime's timeline or gantt feature showing a timeline with various milestone boxes different in length representing how long these take. Each milestone has a different color and they are connected with an arrow" src="public/assets/images/Screenshots/timeline.png" title="Tasks on timeline" /></td>
         <td><img alt="Screenshot of Leantime's personal calendar screen showing a month overview with a few tasks" src="public/assets/images/Screenshots/calendar.png" title="Project Calendar" /></td>
     </tr>

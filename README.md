@@ -46,7 +46,7 @@ Built with ADHD, dyslexia and autism in mind. 🧠<br />
     <tr>
         <td width="33%"><img alt="Screenshot of Leantime's my work dashboard but with a dark color scheme. All colors are darkened or reverted" src="Public/assest/Images/screenshot/IMG_20260124_111234.jpg" title="My Work" /></td>
         <td width="33%"><img alt="Screenshot of Leantime's project dashboard showing a project checklist that has the first box checked, the latest tasks (1 right now), a progress donut chart at 0%" src="Public/assest/Images/screenshot/IMG_20260125_234307.jpg" title="Project Dashboard" /></td>
-        <td width="33%"><img alt="Screenshot of Leantime's todo screen in table format. Tasks are grouped by status where each Status has a different color" src="public/assets/images/Screenshots/table.png" title="Grouped To-Dos" /></td>
+        <td width="33%"><img alt="Screenshot of Leantime's todo screen in table format. Tasks are grouped by status where each Status has a different color" src="Public/assest/Images/screenshot/IMG_20260125_234343.jpg" title="Grouped To-Dos" /></td>
     </tr>
     <tr>
         <td><img alt="alt text" src="public/assets/images/Screenshots/kanban.png" title="Kanban Board"/></td>

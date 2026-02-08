@@ -54,7 +54,7 @@ Built with ADHD, dyslexia and autism in mind. 🧠<br />
         <td><img alt="Screenshot of Leantime's personal calendar screen showing a month overview with a few tasks" src="Public/assest/Images/screenshot/IMG_20260124_111139.jpg" title="Project Calendar" /></td>
     </tr>
     <tr>
-        <td><img alt="alt text" src="public/assets/images/Screenshots/goals.png" title="Goals" /></td>
+        <td><img alt="alt text" src="" title="Goals" /></td>
         <td><img alt="Screenshot of Leantime's wiki page showing one template article of a product requirements document formatted with lists and tables" src="public/assets/images/Screenshots/docs.png" title="Documents &amp; Wikis" /></td>
         <td><img alt="Screenshot of Leantime's timesheet feature with a table a one week overview and input boxes for each day. Tasks are organized in rows" src="public/assets/images/Screenshots/timesheet.png" title="Timesheets" /></td>
     </tr>

@@ -23,7 +23,7 @@ Built with ADHD, dyslexia and autism in mind. 🧠<br />
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/leantime)
 <br />
 
-  ![alt text]( Public/assest/Images/screenshot/IMG_20260125_234201.jpg"Home Screen")
+  ![alt text]( "Home Screen")
 </div>
 <br /><br />
 

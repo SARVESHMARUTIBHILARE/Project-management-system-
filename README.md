@@ -22,10 +22,10 @@ Built with ADHD, dyslexia and autism in mind. 🧠<br />
 [![Crowdin](https://badges.crowdin.net/leantime/localized.svg)](https://crowdin.com/project/leantime)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/leantime)
 <br />
-
-  ![alt text](Public/assest/Images/screenshot/IMG_20260125_234201.jpg"Home Screen")
-</div>
-<br /><br />
+<table width="100%">
+    <tr>
+        <td width="100%"><img alt="Screenshot of Leantime's my work dashboard but with a work days. All colors are darkened or reverted" src="Public/assest/Images/screenshot/IMG_20260125_234201.jpg" title="Home screen" /></td>
+  
 
 ## 🚀 Features* ##
 | Task Management                                                      | Project Planning                             | Information/Knowledge Management        | Administration                                  |

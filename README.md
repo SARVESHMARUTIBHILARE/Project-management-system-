@@ -55,16 +55,16 @@ Built with ADHD, dyslexia and autism in mind. 🧠<br />
     </tr>
     <tr>
         <td><img alt="alt text" src="Public/assest/Images/screenshot/IMG_20260124_111400.jpg" title="Goals" /></td>
-        <td><img alt="Screenshot of Leantime's wiki page showing one template article of a product requirements document formatted with lists and tables" src="public/assets/images/Screenshots/docs.png" title="Documents &amp; Wikis" /></td>
-        <td><img alt="Screenshot of Leantime's timesheet feature with a table a one week overview and input boxes for each day. Tasks are organized in rows" src="public/assets/images/Screenshots/timesheet.png" title="Timesheets" /></td>
+        <td><img alt="Screenshot of Leantime's wiki page showing one template article of a product requirements document formatted with lists and tables" src="" title="Documents &amp; Wikis" /></td>
+        <td><img alt="Screenshot of Leantime's timesheet feature with a table a one week overview and input boxes for each day. Tasks are organized in rows" src="" title="Timesheets" /></td>
     </tr>
 </table>
 
-<br /><br />
+<
 ### ❗System Requirements ###
 
 * PHP 8.2+
-* MySQL 8.0+ or MariaDB 10.6+
+* MySQL 8.0+pp or MariaDB 10.6+
 * Apache or Nginx (IIS works with some modifications)
 * PHP Extensions:
 * BC Math (bcmath)
